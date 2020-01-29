@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 
-int l = 5
 
+=======
+this is an update.
+>>>>>>> b_2
